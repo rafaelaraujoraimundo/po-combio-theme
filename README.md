@@ -2,7 +2,7 @@
 
 Tema padrão da Totvs para aplicações desenvolvidas com [PO UI](http://po-ui.io).
 
-
+.
 ### Como usar o tema
 
 O **PO UI** possui o seu próprio tema, mas disponibilizamos um tema com os padrões da TOTVS.
