@@ -1,0 +1,17 @@
+{
+  "name": "@rafaelAraujo/combio-theme",
+  "version": "18.9.0",
+  "author": "Rafael Araujo",
+  "description": "PO Theme - Combio Theme Default",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rafaelaraujoraimundo/po-combio-theme"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "po-theme build --fonts --name=default"
+  },
+  "devDependencies": {
+    "@po-ui/style": "18.9.0"
+  }
+}
