@@ -7,20 +7,21 @@ Tema padrão da Totvs para aplicações desenvolvidas com [PO UI](http://po-ui.i
 
 O **PO UI** possui o seu próprio tema, mas disponibilizamos um tema com os padrões da TOTVS.
 
-Para utilizá-lo, instale o pacote `@totvs/po-theme` conforme abaixo:
+Para utilizá-lo, instale o pacote `@rafaelaraujo/combio-theme` conforme abaixo:
 
 ```
-npm i @totvs/po-theme
+npm i @rafaelaraujo/combio-theme
 ```
 
 Em seguida, atualize o arquivo `angular.json` para utilizar o tema.
 
 ```json
-"styles": [
-  "node_modules/@totvs/po-theme/css/po-theme-default-variables.min.css",
-  "node_modules/@totvs/po-theme/css/po-theme-default.min.css",
-  "node_modules/@po-ui/style/css/po-theme-core.min.css",
-]
+  "styles": [
+              "node_modules/@rafaelaraujo/combio-theme/css/po-theme-custom-variables.min.css",
+              "node_modules/@rafaelaraujo/combio-theme/css/po-theme-custom.min.css",
+              "node_modules/@po-ui/style/css/po-theme-core.min.css",
+              "src/styles.scss"
+            ],
 ```
 
 > Leia mais sobre [como criar seu próprio tema customizado do PO UI][create-theme-customization].
