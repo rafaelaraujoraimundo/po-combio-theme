@@ -120,12 +120,12 @@
 
 :root {
   --color-brand-01-lightest: #d9e8db;
-  --color-brand-01-lighter: #116533;
+  --color-brand-01-lighter: #399444;
   --color-brand-01-light: #bd94d1;
   --color-brand-01-base: #399444;
-  --color-brand-01-dark: #0f5837;
-  --color-brand-01-darker: #0d4a30;
-  --color-brand-01-darkest: #260538;
+  --color-brand-01-dark: #46a364;
+  --color-brand-01-darker: #2a8644;
+  --color-brand-01-darkest: #116533;
   --color-brand-02-base: #b92f72;
   --color-brand-03-base: #e7f7ea;
   --color-neutral-dark-70: #4a5c60;

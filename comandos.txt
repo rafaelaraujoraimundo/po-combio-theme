@@ -1,0 +1,4 @@
+po-theme build --fonts
+
+npm publish
+po-theme build
